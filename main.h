@@ -51,4 +51,3 @@ int reverse_string(char *s);
 int _string_length(const char *s);
 
 int print_string(va_list val);
-
