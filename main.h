@@ -51,8 +51,4 @@ int reverse_string(char *s);
 int _string_length(const char *s);
 
 int print_string(va_list val);
-<<<<<<< HEAD
-=======
 
-#endif
->>>>>>> 5e92bbacf5fa774fa6de7f0c4ee23d85e7b15319
